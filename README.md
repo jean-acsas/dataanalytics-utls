@@ -1,1 +1,1 @@
-## Useful scripts and practices for datanalytics
+## Useful scripts and practices for data analytics
