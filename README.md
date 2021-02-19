@@ -40,5 +40,3 @@ SAVE OUTFILE='C:\path\to\theFile.sav'
   /COMPRESSED.
 EXECUTE.
 ```
-
-tbc.
