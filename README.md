@@ -34,7 +34,7 @@ DATASET NAME DataSet1 WINDOW=FRONT.
 
 #### Writing files
 
-Save a file as a sav.
+Saving a file (e.g. as a .sav):
 ```SPSS
 SAVE OUTFILE='C:\path\to\theFile.sav'
   /COMPRESSED.
