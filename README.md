@@ -1,4 +1,4 @@
-## Some helpful commands as well as previous scripts I used for data analytics (see attachments)
+## Some helpful commands as well as previous scripts I used for data analysis (see attachments)
 
 ### SPSS
 
